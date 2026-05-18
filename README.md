@@ -30,13 +30,4 @@ To run the evaluation pipeline or reproduce the data visualizations:
 3. Run the analysis cells to output the quantitative evaluation metrics and the matplotlib figures.
 
 ## 📖 Citation
-
-If you use this dataset or methodology in your research, please cite our paper:
-
-```bibtex
-@inproceedings{abouzahir2026malariarag,
-  title={Offline Malaria RAG: Safe Knowledge Synthesis with Small Language Models},
-  author={Abouzahir, Saad and Salem, Mostafa and others},
-  booktitle={Proceedings of the [Insert Conference Name]},
-  year={2026}
-}
+....
